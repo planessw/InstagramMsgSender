@@ -14,8 +14,7 @@ Windwos10 64bitで動作確認済。Linux、Mac不可。
 1.「Java」を利用しますので、お使いのPCにインストールされていない方は以下よりインストールしてください。</br>
 https://www.java.com/ja/
 
-2.以下からプログラム一式をダウンロードし、任意の場所に解凍してください。</br>
-https://drive.google.com/file/d/1qiEwzjpQrUlQaX43gHvqdAAf8tg9wTQ8/view?usp=sharing
+2.プログラム一式をダウンロードし、任意の場所に解凍してください。</br>
 
 3.以下の３つのファイルに必要事項を入力してファイルを保存してください。</br>
 　<resurce.properties></br>
