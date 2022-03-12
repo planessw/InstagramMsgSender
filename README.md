@@ -15,7 +15,7 @@ Windwos10 64bitで動作確認済。Linux、Mac不可。
 https://www.java.com/ja/
 
 2.以下からプログラム一式をダウンロードし、任意の場所に解凍してください。</br>
-https://drive.google.com/file/d/1Ud7HHhOllqOKWNOswo9iNt_eQf0dXgqR/view?usp=sharing
+https://path.to.DLlink
 
 3.以下の３つのファイルに必要事項を入力してファイルを保存してください。</br>
 　<resurce.properties></br>
